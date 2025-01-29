@@ -28,9 +28,55 @@ Maybe include a list of faculty here?
 
 -   Zotero
 
+-   Sourcing measures
+
+    -   Identifying databases and how to identify "correct" measures
+
+-   Secondary Data analysis
+
+    -   Databases
+
+        -   LDBase - <https://ldbase.org/>
+
 -   Citi Trainings
 
+    -   Clarify which CITI trainings are needed
+
 -   Qualtrics
+
+    -   Templates
+
+    -   Building up a library of questionnaires
+
+    -   Other Resources (slideshow)
+
+        -   Randomization
+
+        -   Question Type
+
+        -   Settings to navigate
+
+        -   UserX
+
+        -   Targeting for different audiences
+
+        -   Embedded Data
+
+            -   Linking surveys together with included data
+
+        -   Naming conventions for items
+
+        -   Recoding variables
+
+        -   Simulate Participants
+
+        -   Individualized Links
+
+            -   Email vs. CSV
+
+-   Other types of data collection (Connect by CloudResearch, MTurk, Prolific)
+
+-   COLA Student Fund, SURF, CSTEP, McNair
 
 -   IRB
 
