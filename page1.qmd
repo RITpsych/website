@@ -1,7 +1,0 @@
----
-title: Page 1
-execute:
-  freeze: true
----
-
-# Page 1

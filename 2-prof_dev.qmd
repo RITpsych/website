@@ -1,0 +1,23 @@
+---
+title: Professional Development
+execute:
+  freeze: true
+---
+
+# Professional Development
+
+-   Letters of Rec - Best practices for asking/selecting
+
+    -   Provide info around how much time they work will reflect the type of letters that they can write
+
+    -   Recommendations of timelines to set themselves up for good letters and other things
+
+-   CV Construction
+
+-   Writing personal statements
+
+    -   Grad applications - kisses of death
+
+    -   Purdue Owl on personal statements
+
+-   Website?? Think about it, but understand what goes into it

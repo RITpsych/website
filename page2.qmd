@@ -1,9 +1,0 @@
----
-title: Page 2
-execute:
-  freeze: true
----
-
-# Page 2
-
-More info here

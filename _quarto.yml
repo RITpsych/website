@@ -29,8 +29,10 @@ website:
         text: Welcome
       - href: labs/index.qmd
         text: Labs
-      - page1.qmd
-      - page2.qmd
+      - href: 1-research.qmd
+        text: "Doing Research"
+      - href: 2-prof_dev.qmd
+        text: "Professional Development"
 
 
 format:

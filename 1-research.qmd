@@ -1,0 +1,20 @@
+---
+title: Doing Research
+execute:
+  freeze: true
+---
+
+
+
+# Overview of doing your study
+
+## Getting the Data
+
+### Data Management
+
+
+## Analyzing the Data
+
+
+## Presenting/Sharing the Data
+
