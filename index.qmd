@@ -34,9 +34,13 @@ Maybe include a list of faculty here?
 
 -   Secondary Data analysis
 
-    -   Databases
+    -   Databases (task an RA to search)
+
+    -   Separate them out by domains (as well as identifying the level of access)
 
         -   LDBase - <https://ldbase.org/>
+        -   NHANES
+        -   Data Hoarders subreddit
 
 -   Citi Trainings
 
@@ -80,11 +84,19 @@ Maybe include a list of faculty here?
 
 -   IRB
 
+    -   Document sent from Joe
+
+    -   HRSO Example Consent Form
+
 -   Using your computer
 
     -   File structure
 
     -   Naming Conventions
+
+    -   Using Excel/Google Sheets
+
+    -   Adobe Suite
 
 -   General Professional Development
 
@@ -105,3 +117,52 @@ Maybe include a list of faculty here?
 -   Research Templates
 
     -   Poster Presentations
+        -   How to print a poster!
+
+-   Using PowerPoint/Canva for presentations
+
+-   Statistical Softwares/Experiment Running Software
+
+    -   R
+
+    -   jamovi
+
+    -   SPSS
+
+    -   python/psychopy
+
+    -   superlab
+
+    -   Prolific/cloud-connect
+
+    -   gorilla
+
+## Groupings
+
+### Overview of doing your study
+
+-   Getting the Data
+
+    -   Data Management
+
+-   Analyzing the Data
+
+-   Presenting/Sharing the Data
+
+### Professional Development
+
+-   Letters of Rec - Best practices for asking/selecting
+
+    -   Provide info around how much time they work will reflect the type of letters that they can write
+
+    -   Recommendations of timelines to set themselves up for good letters and other things
+
+-   CV Construction
+
+-   Writing personal statements
+
+    -   Grad applications - kisses of death
+
+    -   Purdue Owl on personal statements
+
+-   Website?? Think about it, but understand what goes into it
