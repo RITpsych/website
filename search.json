@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "labs/padme.html",
+    "href": "labs/padme.html",
+    "title": "PADME lab",
+    "section": "",
+    "text": "Page for the PADME Lab!"
+  },
+  {
     "objectID": "page2.html",
     "href": "page2.html",
     "title": "Page 2",
@@ -10,38 +17,11 @@
     ]
   },
   {
-    "objectID": "labs/index.html",
-    "href": "labs/index.html",
-    "title": "Labs",
-    "section": "",
-    "text": "Psychology Labs at RIT\nCreate a list of all the labs here:\nPADME Lab - Dr. Dustin Haraden",
-    "crumbs": [
-      "Labs"
-    ]
-  },
-  {
-    "objectID": "page1.html",
-    "href": "page1.html",
-    "title": "Page 1",
-    "section": "",
-    "text": "Page 1",
-    "crumbs": [
-      "Page 1"
-    ]
-  },
-  {
-    "objectID": "labs/padme.html",
-    "href": "labs/padme.html",
-    "title": "PADME lab",
-    "section": "",
-    "text": "Page for the PADME Lab!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "RIT Psych",
     "section": "",
-    "text": "Here we can have some overview\n\n\nWhat is it that this website is all about?\n\n\n\nMaybe include a list of faculty here?\n\nLinks to lab websites and faculty info\nMaybe overall research interests and lab projects\n\n\n\n\n\nUsing git/github\nSONA\nZotero\nSourcing measures\n\nIdentifying databases and how to identify “correct” measures\n\nSecondary Data analysis\n\nDatabases\n\nLDBase - https://ldbase.org/\n\n\nCiti Trainings\n\nClarify which CITI trainings are needed\n\nQualtrics\n\nTemplates\nBuilding up a library of questionnaires\nOther Resources (slideshow)\n\nRandomization\nQuestion Type\nSettings to navigate\nUserX\nTargeting for different audiences\nEmbedded Data\n\nLinking surveys together with included data\n\nNaming conventions for items\nRecoding variables\nSimulate Participants\nIndividualized Links\n\nEmail vs. CSV\n\n\n\nOther types of data collection (Connect by CloudResearch, MTurk, Prolific)\nCOLA Student Fund, SURF, CSTEP, McNair\nIRB\nUsing your computer\n\nFile structure\nNaming Conventions\n\nGeneral Professional Development\n\nLetters of Rec - Best practices for asking/selecting\n\nProvide info around how much time they work will reflect the type of letters that they can write\nRecommendations of timelines to set themselves up for good letters and other things\n\nCV Construction\nWriting personal statements\n\nGrad applications - kisses of death\nPurdue Owl on personal statements\n\n\nResearch Templates\n\nPoster Presentations",
+    "text": "Here we can have some overview\n\n\nWhat is it that this website is all about?\n\n\n\nMaybe include a list of faculty here?\n\nLinks to lab websites and faculty info\nMaybe overall research interests and lab projects\n\n\n\n\n\nUsing git/github\nSONA\nZotero\nSourcing measures\n\nIdentifying databases and how to identify “correct” measures\n\nSecondary Data analysis\n\nDatabases (task an RA to search)\nSeparate them out by domains (as well as identifying the level of access)\n\nLDBase - https://ldbase.org/\nNHANES\nData Hoarders subreddit\n\n\nCiti Trainings\n\nClarify which CITI trainings are needed\n\nQualtrics\n\nTemplates\nBuilding up a library of questionnaires\nOther Resources (slideshow)\n\nRandomization\nQuestion Type\nSettings to navigate\nUserX\nTargeting for different audiences\nEmbedded Data\n\nLinking surveys together with included data\n\nNaming conventions for items\nRecoding variables\nSimulate Participants\nIndividualized Links\n\nEmail vs. CSV\n\n\n\nOther types of data collection (Connect by CloudResearch, MTurk, Prolific)\nCOLA Student Fund, SURF, CSTEP, McNair\nIRB\n\nDocument sent from Joe\nHRSO Example Consent Form\n\nUsing your computer\n\nFile structure\nNaming Conventions\nUsing Excel/Google Sheets\nAdobe Suite\n\nGeneral Professional Development\n\nLetters of Rec - Best practices for asking/selecting\n\nProvide info around how much time they work will reflect the type of letters that they can write\nRecommendations of timelines to set themselves up for good letters and other things\n\nCV Construction\nWriting personal statements\n\nGrad applications - kisses of death\nPurdue Owl on personal statements\n\n\nResearch Templates\n\nPoster Presentations\n\nHow to print a poster!\n\n\nUsing PowerPoint/Canva for presentations\nStatistical Softwares/Experiment Running Software\n\nR\njamovi\nSPSS\npython/psychopy\nsuperlab\nProlific/cloud-connect\ngorilla\n\n\n\n\n\n\n\n\nGetting the Data\n\nData Management\n\nAnalyzing the Data\nPresenting/Sharing the Data\n\n\n\n\n\nLetters of Rec - Best practices for asking/selecting\n\nProvide info around how much time they work will reflect the type of letters that they can write\nRecommendations of timelines to set themselves up for good letters and other things\n\nCV Construction\nWriting personal statements\n\nGrad applications - kisses of death\nPurdue Owl on personal statements\n\nWebsite?? Think about it, but understand what goes into it",
     "crumbs": [
       "Welcome"
     ]
@@ -71,9 +51,39 @@
     "href": "index.html#page-options---things-that-are-common-across-the-department",
     "title": "RIT Psych",
     "section": "",
-    "text": "Using git/github\nSONA\nZotero\nSourcing measures\n\nIdentifying databases and how to identify “correct” measures\n\nSecondary Data analysis\n\nDatabases\n\nLDBase - https://ldbase.org/\n\n\nCiti Trainings\n\nClarify which CITI trainings are needed\n\nQualtrics\n\nTemplates\nBuilding up a library of questionnaires\nOther Resources (slideshow)\n\nRandomization\nQuestion Type\nSettings to navigate\nUserX\nTargeting for different audiences\nEmbedded Data\n\nLinking surveys together with included data\n\nNaming conventions for items\nRecoding variables\nSimulate Participants\nIndividualized Links\n\nEmail vs. CSV\n\n\n\nOther types of data collection (Connect by CloudResearch, MTurk, Prolific)\nCOLA Student Fund, SURF, CSTEP, McNair\nIRB\nUsing your computer\n\nFile structure\nNaming Conventions\n\nGeneral Professional Development\n\nLetters of Rec - Best practices for asking/selecting\n\nProvide info around how much time they work will reflect the type of letters that they can write\nRecommendations of timelines to set themselves up for good letters and other things\n\nCV Construction\nWriting personal statements\n\nGrad applications - kisses of death\nPurdue Owl on personal statements\n\n\nResearch Templates\n\nPoster Presentations",
+    "text": "Using git/github\nSONA\nZotero\nSourcing measures\n\nIdentifying databases and how to identify “correct” measures\n\nSecondary Data analysis\n\nDatabases (task an RA to search)\nSeparate them out by domains (as well as identifying the level of access)\n\nLDBase - https://ldbase.org/\nNHANES\nData Hoarders subreddit\n\n\nCiti Trainings\n\nClarify which CITI trainings are needed\n\nQualtrics\n\nTemplates\nBuilding up a library of questionnaires\nOther Resources (slideshow)\n\nRandomization\nQuestion Type\nSettings to navigate\nUserX\nTargeting for different audiences\nEmbedded Data\n\nLinking surveys together with included data\n\nNaming conventions for items\nRecoding variables\nSimulate Participants\nIndividualized Links\n\nEmail vs. CSV\n\n\n\nOther types of data collection (Connect by CloudResearch, MTurk, Prolific)\nCOLA Student Fund, SURF, CSTEP, McNair\nIRB\n\nDocument sent from Joe\nHRSO Example Consent Form\n\nUsing your computer\n\nFile structure\nNaming Conventions\nUsing Excel/Google Sheets\nAdobe Suite\n\nGeneral Professional Development\n\nLetters of Rec - Best practices for asking/selecting\n\nProvide info around how much time they work will reflect the type of letters that they can write\nRecommendations of timelines to set themselves up for good letters and other things\n\nCV Construction\nWriting personal statements\n\nGrad applications - kisses of death\nPurdue Owl on personal statements\n\n\nResearch Templates\n\nPoster Presentations\n\nHow to print a poster!\n\n\nUsing PowerPoint/Canva for presentations\nStatistical Softwares/Experiment Running Software\n\nR\njamovi\nSPSS\npython/psychopy\nsuperlab\nProlific/cloud-connect\ngorilla",
     "crumbs": [
       "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#groupings",
+    "href": "index.html#groupings",
+    "title": "RIT Psych",
+    "section": "",
+    "text": "Getting the Data\n\nData Management\n\nAnalyzing the Data\nPresenting/Sharing the Data\n\n\n\n\n\nLetters of Rec - Best practices for asking/selecting\n\nProvide info around how much time they work will reflect the type of letters that they can write\nRecommendations of timelines to set themselves up for good letters and other things\n\nCV Construction\nWriting personal statements\n\nGrad applications - kisses of death\nPurdue Owl on personal statements\n\nWebsite?? Think about it, but understand what goes into it",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "page1.html",
+    "href": "page1.html",
+    "title": "Page 1",
+    "section": "",
+    "text": "Page 1",
+    "crumbs": [
+      "Page 1"
+    ]
+  },
+  {
+    "objectID": "labs/index.html",
+    "href": "labs/index.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Psychology Labs at RIT\nCreate a list of all the labs here:\nPADME Lab - Dr. Dustin Haraden",
+    "crumbs": [
+      "Labs"
     ]
   }
 ]
