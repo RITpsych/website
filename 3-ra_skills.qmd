@@ -1,0 +1,13 @@
+---
+title: RA Skills
+execute:
+  freeze: true
+---
+
+# RA Skills
+
+## Getting Started with a lab
+
+### Topics of interest (taken from the picture)
+
+- Getting started with Excel

@@ -33,6 +33,8 @@ website:
         text: "Doing Research"
       - href: 2-prof_dev.qmd
         text: "Professional Development"
+      - href: 3-ra_skills.qmd
+        text: "RA Skills Brainstorm"
 
 
 format:
