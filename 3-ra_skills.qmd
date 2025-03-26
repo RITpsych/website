@@ -10,4 +10,10 @@ execute:
 
 ### Topics of interest (taken from the picture)
 
-- Getting started with Excel
+-   Getting started with Excel
+
+    -   Having a hands on experience to be able to evaluate the RA's
+
+-   Using Qualtrics
+
+-   Computer Skills - Linkdin Learning
